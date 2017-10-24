@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PurchaseOrders>
+    <PurchaseOrder Importance="1">
+        <PurchaseOrder_OrderId>452</PurchaseOrder_OrderId>
+        <PurchaseOrder_OrderDate>2017-10-24</PurchaseOrder_OrderDate>
+        <PurchaseOrder_ProductName>Test Product</PurchaseOrder_ProductName>
+        <PurchaseOrder_ProductQuantity>10</PurchaseOrder_ProductQuantity>
+        <PurchaseOrder_ProductCost>10.5</PurchaseOrder_ProductCost>
+        <PurchaseOrder_TotalCost>105.0</PurchaseOrder_TotalCost>
+        <PurchaseOrder_CustomerInfo>
+            <CustomerInfo_CustomerId>2</CustomerInfo_CustomerId>
+            <CustomerInfo_CustomerName>New Name</CustomerInfo_CustomerName>
+        </PurchaseOrder_CustomerInfo>
+    </PurchaseOrder>
+    <PurchaseOrder Importance="0">
+        <PurchaseOrder_OrderId>253</PurchaseOrder_OrderId>
+        <PurchaseOrder_OrderDate>2017-10-24</PurchaseOrder_OrderDate>
+        <PurchaseOrder_ProductName>Test Product 2</PurchaseOrder_ProductName>
+        <PurchaseOrder_ProductQuantity>3</PurchaseOrder_ProductQuantity>
+        <PurchaseOrder_ProductCost>102.5</PurchaseOrder_ProductCost>
+        <PurchaseOrder_TotalCost>307.5</PurchaseOrder_TotalCost>
+        <PurchaseOrder_CustomerInfo>
+            <CustomerInfo_CustomerId>2</CustomerInfo_CustomerId>
+            <CustomerInfo_CustomerName>New Name</CustomerInfo_CustomerName>
+        </PurchaseOrder_CustomerInfo>
+    </PurchaseOrder>
+    <PurchaseOrder Importance="0">
+        <PurchaseOrder_OrderId>677</PurchaseOrder_OrderId>
+        <PurchaseOrder_OrderDate>2017-10-24</PurchaseOrder_OrderDate>
+        <PurchaseOrder_ProductName>Test Product 3</PurchaseOrder_ProductName>
+        <PurchaseOrder_ProductQuantity>14</PurchaseOrder_ProductQuantity>
+        <PurchaseOrder_ProductCost>1.5</PurchaseOrder_ProductCost>
+        <PurchaseOrder_TotalCost>210.0</PurchaseOrder_TotalCost>
+        <PurchaseOrder_CustomerInfo>
+            <CustomerInfo_CustomerId>2</CustomerInfo_CustomerId>
+            <CustomerInfo_CustomerName>New Name</CustomerInfo_CustomerName>
+        </PurchaseOrder_CustomerInfo>
+    </PurchaseOrder>
+    <purchaseOrders Importance="1">
+        <PurchaseOrder_OrderId>452</PurchaseOrder_OrderId>
+        <PurchaseOrder_OrderDate>2017-10-24</PurchaseOrder_OrderDate>
+        <PurchaseOrder_ProductName>Test Product</PurchaseOrder_ProductName>
+        <PurchaseOrder_ProductQuantity>10</PurchaseOrder_ProductQuantity>
+        <PurchaseOrder_ProductCost>10.5</PurchaseOrder_ProductCost>
+        <PurchaseOrder_TotalCost>105.0</PurchaseOrder_TotalCost>
+        <PurchaseOrder_CustomerInfo>
+            <CustomerInfo_CustomerId>2</CustomerInfo_CustomerId>
+            <CustomerInfo_CustomerName>New Name</CustomerInfo_CustomerName>
+        </PurchaseOrder_CustomerInfo>
+    </purchaseOrders>
+    <purchaseOrders Importance="0">
+        <PurchaseOrder_OrderId>253</PurchaseOrder_OrderId>
+        <PurchaseOrder_OrderDate>2017-10-24</PurchaseOrder_OrderDate>
+        <PurchaseOrder_ProductName>Test Product 2</PurchaseOrder_ProductName>
+        <PurchaseOrder_ProductQuantity>3</PurchaseOrder_ProductQuantity>
+        <PurchaseOrder_ProductCost>102.5</PurchaseOrder_ProductCost>
+        <PurchaseOrder_TotalCost>307.5</PurchaseOrder_TotalCost>
+        <PurchaseOrder_CustomerInfo>
+            <CustomerInfo_CustomerId>2</CustomerInfo_CustomerId>
+            <CustomerInfo_CustomerName>New Name</CustomerInfo_CustomerName>
+        </PurchaseOrder_CustomerInfo>
+    </purchaseOrders>
+    <purchaseOrders Importance="0">
+        <PurchaseOrder_OrderId>677</PurchaseOrder_OrderId>
+        <PurchaseOrder_OrderDate>2017-10-24</PurchaseOrder_OrderDate>
+        <PurchaseOrder_ProductName>Test Product 3</PurchaseOrder_ProductName>
+        <PurchaseOrder_ProductQuantity>14</PurchaseOrder_ProductQuantity>
+        <PurchaseOrder_ProductCost>1.5</PurchaseOrder_ProductCost>
+        <PurchaseOrder_TotalCost>210.0</PurchaseOrder_TotalCost>
+        <PurchaseOrder_CustomerInfo>
+            <CustomerInfo_CustomerId>2</CustomerInfo_CustomerId>
+            <CustomerInfo_CustomerName>New Name</CustomerInfo_CustomerName>
+        </PurchaseOrder_CustomerInfo>
+    </purchaseOrders>
+</PurchaseOrders>

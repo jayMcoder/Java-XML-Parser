@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<VehicleModels>
+  <Car id="1">
+    <ModelName>3</ModelName>
+    <CompanyName>Mazda</CompanyName>
+    <ModelYear>2003-2009</ModelYear>
+    <EngineSize>1349cc</EngineSize>
+  </Car>
+  <Car id="2">
+    <ModelName>i10</ModelName>
+    <CompanyName>Hyundai</CompanyName>
+    <ModelYear>2008-2012</ModelYear>
+    <EngineSize>1149cc</EngineSize>
+  </Car>
+</VehicleModels>

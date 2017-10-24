@@ -1,0 +1,14 @@
+<school>
+	<student>
+		<firstname>Luke</firstname>
+		<secondname>Skywalker</secondname>
+		<year-joined>2011</year-joined>
+		<grade>6</grade>
+	</student>
+	<student>
+		<firstname>Han</firstname>
+		<secondname>Solo</secondname>
+		<year-joined>2008</year-joined>
+		<grade>8</grade>
+	</student>
+</school>

@@ -1,0 +1,16 @@
+<office>
+	<employee>
+		<empid>1290</empid>
+		<firstname>captain</firstname>
+		<secondname>america</secondname>
+		<department>army</department>
+		<age>99</age>
+	</employee>
+	<employee>
+		<empid>2233</empid>
+		<firstname>iron</firstname>
+		<secondname>man</secondname>
+		<department>luxury</department>
+		<age>32</age>
+	</employee>
+</office>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<VehicleModels>
+  <Car id="1">
+    <ModelName>3</ModelName>
+    <CompanyName>Mazda</CompanyName>
+    <ModelYear>2003-2009</ModelYear>
+    <EngineSize>1349cc</EngineSize>
+  </Car>
+</VehicleModels>

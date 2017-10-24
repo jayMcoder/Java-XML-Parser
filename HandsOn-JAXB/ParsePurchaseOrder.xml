@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PurchaseOrder Importance="1">
+    <PurchaseOrder_OrderId>400</PurchaseOrder_OrderId>
+    <PurchaseOrder_OrderDate>2017-08-17</PurchaseOrder_OrderDate>
+    <PurchaseOrder_ProductName>Parse Product</PurchaseOrder_ProductName>
+    <PurchaseOrder_ProductQuantity>6</PurchaseOrder_ProductQuantity>
+    <PurchaseOrder_ProductCost>17</PurchaseOrder_ProductCost>
+    <PurchaseOrder_TotalCost>102</PurchaseOrder_TotalCost>
+    <PurchaseOrder_CustomerInfo>
+    	<CustomerInfo_CustomerId>00001</CustomerInfo_CustomerId>
+    	<CustomerInfo_CustomerName>Test Name</CustomerInfo_CustomerName>
+    </PurchaseOrder_CustomerInfo>
+</PurchaseOrder>

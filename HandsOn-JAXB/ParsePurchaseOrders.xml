@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PurchaseOrders>
+    <PurchaseOrder Importance="1">
+        <PurchaseOrder_OrderId>900</PurchaseOrder_OrderId>
+        <PurchaseOrder_OrderDate>2017-08-17</PurchaseOrder_OrderDate>
+        <PurchaseOrder_ProductName>Parse Product</PurchaseOrder_ProductName>
+        <PurchaseOrder_ProductQuantity>8</PurchaseOrder_ProductQuantity>
+        <PurchaseOrder_ProductCost>45</PurchaseOrder_ProductCost>
+        <PurchaseOrder_TotalCost>360</PurchaseOrder_TotalCost>
+        <PurchaseOrder_CustomerInfo>
+    		<CustomerInfo_CustomerId>00001</CustomerInfo_CustomerId>
+    		<CustomerInfo_CustomerName>Test Name</CustomerInfo_CustomerName>
+    	</PurchaseOrder_CustomerInfo>
+    </PurchaseOrder>
+    <PurchaseOrder Importance="0">
+        <PurchaseOrder_OrderId>400</PurchaseOrder_OrderId>
+        <PurchaseOrder_OrderDate>2017-08-17</PurchaseOrder_OrderDate>
+        <PurchaseOrder_ProductName>Parse Product 2</PurchaseOrder_ProductName>
+        <PurchaseOrder_ProductQuantity>13</PurchaseOrder_ProductQuantity>
+        <PurchaseOrder_ProductCost>15.1</PurchaseOrder_ProductCost>
+        <PurchaseOrder_TotalCost>196.3</PurchaseOrder_TotalCost>
+        <PurchaseOrder_CustomerInfo>
+    		<CustomerInfo_CustomerId>00001</CustomerInfo_CustomerId>
+    		<CustomerInfo_CustomerName>Test Name</CustomerInfo_CustomerName>
+    	</PurchaseOrder_CustomerInfo>
+    </PurchaseOrder>
+    <PurchaseOrder Importance="0">
+        <PurchaseOrder_OrderId>300</PurchaseOrder_OrderId>
+        <PurchaseOrder_OrderDate>2017-08-17</PurchaseOrder_OrderDate>
+        <PurchaseOrder_ProductName>Parse Product 3</PurchaseOrder_ProductName>
+        <PurchaseOrder_ProductQuantity>19</PurchaseOrder_ProductQuantity>
+        <PurchaseOrder_ProductCost>5.6</PurchaseOrder_ProductCost>
+        <PurchaseOrder_TotalCost>106.4</PurchaseOrder_TotalCost>
+        <PurchaseOrder_CustomerInfo>
+    		<CustomerInfo_CustomerId>00001</CustomerInfo_CustomerId>
+    		<CustomerInfo_CustomerName>Test Name</CustomerInfo_CustomerName>
+    	</PurchaseOrder_CustomerInfo>
+    </PurchaseOrder>
+</PurchaseOrders>
